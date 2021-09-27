@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LoginMVP</string>
+
+    <string name="text_view_title_login_user">Acceder</string>
+    <string name="edit_text_username_login">Usuario</string>
+    <string name="edit_text_password_login">Contraseña</string>
+    <string name="button_login_user">Login</string>
+    <string name="text_view_description_question">¿No tienes una cuenta?</string>
+    <string name="text_view_link_create_account">¡Quiero registrarme!</string>
+
+    <string name="edit_text_repeat_password_register">Repetir Contraseña</string>
+    <string name="button_register_user">Sign Up</string>
+    <string name="text_view_title_register_user">Registrarse</string>
+</resources>
